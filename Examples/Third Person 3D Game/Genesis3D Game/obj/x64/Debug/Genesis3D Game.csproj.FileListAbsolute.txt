@@ -37,3 +37,32 @@ C:\Users\andy1\source\repos\Genesis3D Game\Genesis3D Game\bin\x64\Debug\Resource
 C:\Users\andy1\source\repos\Genesis3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Normal.png
 C:\Users\andy1\source\repos\Genesis3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Specular.png
 C:\Users\andy1\source\repos\Genesis3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbx
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1001_Diffuse.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1001_Glossiness.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1001_Normal.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1001_Specular.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Diffuse.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Emissive.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Glossiness.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Normal.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbm\Ch15_1002_Specular.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Skydome1\kloofendal_48d_partly_cloudy_puresky_4k.png
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Animation\Human.fbx
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Skydome1\kloofendal_48d_partly_cloudy_puresky_4k.exr
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Skydome1\skydome.mtl
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Resources\Assets\Skydome1\skydome.obj
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Genesis3D Game.exe.config
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Genesis3D Game.exe
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Genesis3D Game.pdb
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\BulletSharp.dll
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.csproj.AssemblyReference.cache
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D_Game.Form1.resources
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D_Game.Properties.Resources.resources
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.csproj.GenerateResource.cache
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.csproj.CoreCompileInputs.cache
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.csproj.CopyComplete
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.exe
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\obj\x64\Debug\Genesis3D Game.pdb
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\AssimpNet.dll
+C:\Users\paul.andrew\Documents\Git Repos\GFX\Examples\Third Person 3D Game\Genesis3D Game\bin\x64\Debug\AssimpNet.xml
